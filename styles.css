@@ -1,0 +1,28 @@
+
+div{
+    display: inline-block;
+    
+    justify-content: center;
+}
+
+.container{
+    width: 90%;
+    text-align: center;
+    margin: auto;
+}
+h1{
+    font-size: 5rem;
+    font-style: italic;
+    color: aquamarine;
+}
+p{
+    font-size: 2rem;
+    font-style: italic;
+    color: aquamarine;
+}
+body{
+    background-color: gray;
+}
+img{
+    width: 80%;
+}
